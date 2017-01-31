@@ -1,7 +1,7 @@
 # ResponsiveAnimatedImageGrid
 This image grid has really nice subtle animation effect when the mouse hovers over each image box. Each box is also a clickable link. Each image features a nice impactful heading and a few lines of descriptive text.
 
-Responsive Animated Image Grid
+##Responsive Animated Image Grid
 [Read the article](http://xopixel.com/responsive-animated-image-grid-html5-css3/) on XO PIXEL
 & [View the demo](http://xopixel.com/demo/Responsive%20Animated%20Image%20Grid%20/)
 
