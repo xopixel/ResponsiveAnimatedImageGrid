@@ -5,7 +5,7 @@ This image grid has really nice subtle animation effect when the mouse hovers ov
 & [View the demo](http://xopixel.com/demo/Responsive%20Animated%20Image%20Grid%20/)
 
 ## License
-Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
+Read the License & Terms of Use [here](http://xopixel.com/terms-of-use/)
 
 ## Credits
 - Images by [Death To The Stock Photo](http://deathtothestockphoto.com/)
